@@ -1,2 +1,2 @@
 # pictures
-This repo is for all the pictures I in projects
+This repo is for all the pictures I use in projects
